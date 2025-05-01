@@ -23,7 +23,7 @@ My e-commerce is built using React.js and Tailwind CSS. It showcases a modern pr
 ### 2. Install dependencies
 - npm install
 
-###3. Start the development server
+### 3. Start the development server
 - npm run dev
 
 
